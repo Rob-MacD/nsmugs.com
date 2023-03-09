@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: cornflowerblue;
+  align-items: center;
+}
+
+h1 {
+  margin: 8px;
+}
+
+button {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  margin-right: 8px;
+}
